@@ -2,11 +2,11 @@ import oauth2
 import json
 import urllib.parse
 
-consumer_key = 'aT0nKsBVycowoKTJ8TgAQx6eO'
-consumer_secret = 'i3dGCJfmBajsNA8D5xhohAG8yb9EQQfQ9XY5cnYN2NgvySVoXk'
+consumer_key = 'key_do_consumer'
+consumer_secret = 'secret_consumer'
 
-token_key = '1112724515497410560-TV7SQx8dqyQujsAi32YcdPUf8yioSG'
-token_secret = 'QVefzIq6KYvQ4tZPHdE2A8S5NqzNmXlgsXMcWJFHYoZjN'
+token_key = 'key_token'
+token_secret = 'secret_token'
 
 
 #Informações que dão acesso a nossa conta no Twitter
